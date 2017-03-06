@@ -1,3 +1,6 @@
-# My Awesome Book
+# GitBook을 이용한 오픈소스 매뉴얼 작업 가이드
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+이 문서는 한국 PostgreSQL 사용자 모임 및 OSGeo 한국어 지부에서 여러 사용자가 협동하여 오픈소스 매뉴얼을 만들기 위해, GitBook을 작업도구로 사용하는 과정을 가이드하는 문서입니다.
+
+이 가이드는 충돌을 최소화 하면서 공동 작업을 하기위한 워크플로우를 설명하고, 한글을 사용하는 문서작업시의 문제를 해결하는 것에 중점을 맞추어 작성되었습니다.
+
