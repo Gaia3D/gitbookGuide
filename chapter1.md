@@ -8,11 +8,25 @@ GitBook의 데이터 파일인 md 파일들은 git 저장소를 이용해 버전
 
 때문에 GitBook 작업을 하기 위해서는 GitBook Editor와 Git Client 프로그램이 필요하고, GitBook과 GitHub의 계정이 필요합니다.
 
-## 필요 프로그램 설치
+## Git Client 설치
 
-### Git Client 설치
+GitBook을 설치하기 전에 GitBook의 동작 기반이 되는 Git을 먼저 설치해 주는 것이 좋습니다. 이미 설치가 되어 있는 분은 설치된 버전일 이용하시면 됩니다.
 
-### GitBook Editor
+아직 Git이 설치되지 않으신 분은 각 OS에 맞게 Git Client를 설치해 주십시오. 대부분의 OS에는 Git이 기본으로 설치되어 있으나 윈도우에는 별도의 설치가 필요합니다. 설치가 필요한 사용자는  [https://git-scm.com/download](https://git-scm.com/download) 에서 각 OS에 맞는 Git Client를 다운받아 설치하시면 됩니다.
+
+설치를 하시 후에는  도스창 혹은 terminal 등 OS Command를 입력할 수 있는 창을 띄워 'git' 명령을 입력해 도움말이 나오는지 확인하시면 됩니다.
+
+![](/assets/git_win.png)
+
+![](/assets/git_linux.png)
+
+## GitBook Editor
+
+GitBook Editor는 OS에 상관 없이 다음 경로에서 받으실 수 있습니다.  [https://www.gitbook.com/editor/](https://www.gitbook.com/editor/)
+
+
+
+
 
 ## 작업에 필요한 계정
 
