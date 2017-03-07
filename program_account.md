@@ -22,9 +22,9 @@ GitBook을 설치하기 전에 GitBook의 동작 기반이 되는 Git을 먼저 
 
 ## GitBook Editor
 
-GitBook Editor는 OS에 상관 없이 다음 경로에서 받으실 수 있습니다.  [https://www.gitbook.com/editor/](https://www.gitbook.com/editor/)
+GitBook Editor는 다음 경로에서 받으실 수 있습니다.  [https://www.gitbook.com/editor/](https://www.gitbook.com/editor/)
 
-
+윈도우, OS X, Ubuntu 용 설치파일이 있으니 사용자의 OS에 적합한 설치파일을 받아 설치하시면 됩니다.
 
 
 
