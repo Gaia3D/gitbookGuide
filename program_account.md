@@ -24,15 +24,15 @@ GitBook을 설치하기 전에 GitBook의 동작 기반이 되는 Git을 먼저 
 
 GitBook Editor는 다음 경로에서 받으실 수 있습니다.  [https://www.gitbook.com/editor/](https://www.gitbook.com/editor/)
 
-윈도우, OS X, Ubuntu 용 설치파일이 있으니 사용자의 OS에 적합한 설치파일을 받아 설치하시면 됩니다. 
+윈도우, OS X, Ubuntu 용 설치파일이 있으니 사용자의 OS에 적합한 설치파일을 받아 설치하시면 됩니다.
 
-GitBook Editor를 사용하기 위해 꼭 GitBook 계정이 필요하지는 않습니다. 설치 후 GitBook Editor를 실행하시면 첫 화면에서 로그인 정보를 요구하지만, 이를 무시하고_** \[GitBook Editor\]-\[Import...\]**_ 등의 메뉴를 이용해 계정 없이 책 만들기 작업에 참여 가능합니다. 
+GitBook Editor를 사용하기 위해 꼭 GitBook 계정이 필요하지는 않습니다. 설치 후 GitBook Editor를 실행하시면 첫 화면에서 로그인 정보를 요구하지만, 이를 무시하고_** \[GitBook Editor\]-\[Import...\]**_ 등의 메뉴를 이용해 계정 없이 책 만들기 작업에 참여 가능합니다.
+
+![](/assets/GitBookLogin.png)
 
 ## GitHub 계정
 
 하지만 협동 작업을 위해 GitHub의 계정은 반드시 필요합니다. 계정이 없어도 저장소의 컨텐츠를 받아와 GitBook Editor에서 마음대로 수정할 수는 있지만, 공동작업을 하는 저장소에 쓸 권한을 받을 수는 없습니다.
 
 때문에 혹시 GitHub 계정이 없으신 분은 꼭 계정을 생성해 주시고, 작업에 참여하실 분들인 참여를 원하는 계정을 GitHub의 Issue 기능을 이용해 관리자에게 알려 주십시오.
-
-
 
