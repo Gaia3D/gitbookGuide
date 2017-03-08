@@ -14,7 +14,7 @@ GitBook을 설치하기 전에 GitBook의 동작 기반이 되는 Git을 먼저 
 
 아직 Git이 설치되지 않으신 분은 각 OS에 맞게 Git Client를 설치해 주십시오. 대부분의 OS에는 Git이 기본으로 설치되어 있으나 윈도우에는 별도의 설치가 필요합니다. 설치가 필요한 사용자는  [https://git-scm.com/download](https://git-scm.com/download) 에서 각 OS에 맞는 Git Client를 다운받아 설치하시면 됩니다.
 
-설치를 하시 후에는  도스창 혹은 terminal 등 OS Command를 입력할 수 있는 창을 띄워 'git' 명령을 입력해 도움말이 나오는지 확인하시면 됩니다.
+설치를 하시 후에는  도스창\(cmd\) 혹은 terminal 등 OS Command를 입력할 수 있는 창을 띄워 'git' 명령을 입력해 도움말이 나오는지 확인하시면 됩니다.
 
 ![](/assets/git_win.png)
 
@@ -25,8 +25,6 @@ GitBook을 설치하기 전에 GitBook의 동작 기반이 되는 Git을 먼저 
 GitBook Editor는 다음 경로에서 받으실 수 있습니다.  [https://www.gitbook.com/editor/](https://www.gitbook.com/editor/)
 
 윈도우, OS X, Ubuntu 용 설치파일이 있으니 사용자의 OS에 적합한 설치파일을 받아 설치하시면 됩니다.
-
-
 
 ## 작업에 필요한 계정
 
