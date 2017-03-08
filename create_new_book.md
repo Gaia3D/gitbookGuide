@@ -36,7 +36,7 @@
 
 이 작업을 위해서는 GitBook 사이트의 자기 계정에 GitHub 플러그인을 연결해야 합니다.
 
-먼저 https://gitbook.com 에 접속해 로그인 합니다. 그리고 상단 오른쪽의 계정 아이콘 옆의 삼각형을 눌러 계정관련 메뉴들을 펼칩니다. 이 중 \[Account Settings\] 메뉴에 GitHub 저장소의 책을 가져오는 기능이 숨어 있습니다.
+먼저 [https://gitbook.com](https://gitbook.com) 에 접속해 로그인 합니다. 그리고 상단 오른쪽의 계정 아이콘 옆의 삼각형을 눌러 계정관련 메뉴들을 펼칩니다. 이 중 \[Account Settings\] 메뉴에 GitHub 저장소의 책을 가져오는 기능이 숨어 있습니다.
 
 ![](/assets/new_book_import2.png)
 
@@ -48,9 +48,5 @@ Create a new book 화면에서 GIT 탭을 선택하고\(GitHub 탭은 자기 계
 
 ![](/assets/new_book_create_book.png)
 
-
-
-
-
-
+이렇게 GitBook에 책을 올리게 되면 별도 서버 없이도 온라인에서 볼 수 있는 책을 만들거나 pdf 등을 생산할 수 있습니다.
 
