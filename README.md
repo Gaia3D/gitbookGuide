@@ -8,7 +8,7 @@ GitBook을 이용한 작업은 일반적인 문서 작성에서의 내용작성\
 
 실제 문서제작 협업을 위해서는다음과 같은 과정을 거치게 됩니다.
 
-1. Git Client, GitBook Editor 등 필요 프로그램을 설치하고 GitHub 계정을 만듭니다.
+1. [Git Client, GitBook Editor 등 필요 프로그램을 설치하고 GitHub 계정을 만듭니다.](/program_account.md#install)
 2. 편집을 원하는 책이 있는 GitHub 저장소의 Issiue에 편집 참여를 원한다는 내용으로 이슈를 만듭니다.
 3. 관리자가 이 이슈를 확인하고, 해당 사용자에게 저장소에 쓸 수 있는 권한을 부여합니다.
 4. git의 clone 명령을 이용해 GitHub에서 파일들을 받아옵니다.
