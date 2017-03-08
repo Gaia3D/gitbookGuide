@@ -9,10 +9,10 @@ GitBook을 이용한 작업은 일반적인 문서 작성에서의 내용작성\
 실제 문서제작 협업을 위해서는다음과 같은 과정을 거치게 됩니다.
 
 1. [Git Client, GitBook Editor 등 필요 프로그램을 설치하고 GitHub 계정을 만듭니다.](/program_account.md#install)
-2. 편집을 원하는 책이 있는 GitHub 저장소의 Issiue에 편집 참여를 원한다는 내용으로 이슈를 만듭니다.
-3. 관리자가 이 이슈를 확인하고, 해당 사용자에게 저장소에 쓸 수 있는 권한을 부여합니다.
-4. git의 clone 명령을 이용해 GitHub에서 파일들을 받아옵니다.
-5. 사용자가 GitBook Editor에서 받아온 git 저장소를 Import 해서 편집을 시작합니다.
+2. [편집을 원하는 책이 있는 GitHub 저장소의 Issiue에 편집 참여를 원한다는 내용으로 이슈를 만듭니다.](/github.md#account)
+3. [관리자가 이 이슈를 확인하고, 해당 사용자에게 저장소에 쓸 수 있는 권한을 부여합니다.](/github.md#accept)
+4. [git의 clone 명령을 이용해 GitHub에서 파일들을 받아옵니다.](/github.md#clone)
+5. [사용자가 GitBook Editor에서 받아온 git 저장소를 Import 해서 편집을 시작합니다.](/github.md#import)
 6. 다른 공동 작업자가 변경한 내용을 내 컴퓨터에 받을 수 있게, 시작하자 마자 \[Sync\] 기능을 실행합니다.
 7. 자신이 작성 원하는 챕터를 \[Add an article\] 기능을 이용해 만들어 줍니다. 혹은 이미 만들어진 챕터를 선택합니다.
 8. 자신이 작성하는 챕터의 내용을 작성하고 저자가 작성의 작은 단위가 끝났다 판단할 때 \[Save\] 합니다.
