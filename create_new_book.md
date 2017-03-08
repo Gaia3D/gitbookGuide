@@ -48,5 +48,5 @@ Create a new book 화면에서 GIT 탭을 선택하고\(GitHub 탭은 자기 계
 
 ![](/assets/new_book_create_book.png)
 
-이렇게 GitBook에 책을 올리게 되면 별도 서버 없이도 온라인에서 볼 수 있는 책을 만들거나 pdf 등을 생산할 수 있습니다.
+이렇게 GitBook에 책을 올리게 되면 별도 서버 없이도 온라인에서 볼 수 있는 책을 만들거나 pdf 등을 생산할 수 있습니다. 하지만 이렇게 만들어진 GitBook은 GitHub와 연동되어 자동 갱신되지 않으니 가능하다면 책이 완성된 후에 올려 주는 것이 좋습니다.
 
