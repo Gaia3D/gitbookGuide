@@ -33,7 +33,11 @@ GitHub에서 참여를 원하는 저장소에 가셔서 \[Issues\] 탭을 누르
 
 ## GitBook Editor에서 작업할 책 열기 {#import}
 
-사용자가 GitBook Editor에서 받아온 git 저장소를 Import 해서 편집을 시작합니다.
+사용자가 GitBook Editor를 실행해 받아온 git 저장소를 Import하면 편집을 시작할 수 있습니다. GitBook Editor를 시작하는 화면에서 \[GitBook Editor\]-\[Import...\] 메뉴를 누르고 앞의 과정에서 Clone 한 저장소가 있는 폴더를 선택하시면 작업할 책이 열립니다. 
+
+![](/assets/GitBookLogin.png)
+
+책을 작업하는 화면은 일반적인 문서편집기와 유사합니다.![](/assets/open_book.png)
 
 1. 다른 공동 작업자가 변경한 내용을 내 컴퓨터에 받을 수 있게, 시작하자 마자 \[Sync\] 기능을 실행합니다.
 2. 자신이 작성 원하는 챕터를 \[Add an article\] 기능을 이용해 만들어 줍니다. 혹은 이미 만들어진 챕터를 선택합니다.
