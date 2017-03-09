@@ -16,10 +16,6 @@ Sync 기능을 처음 수행하면 GitHub.com의 계정을 물어봅니다. 앞�
 
 책을 작업하는 화면은 일반적인 문서편집기와 유사합니다.![](/assets/open_book.png)
 
-![](/assets/open_book.png)
-
-![](/assets/open_book.png)
-
 ## 새 챕터 만들기
 
 자신이 작성 원하는 챕터를 \[Add an article\] 기능을 이용해 만들어 줍니다. 혹은 이미 만들어진 챕터를 선택합니다.
