@@ -2,11 +2,19 @@
 
 ## 작업할 문서 열고 Sync 하기
 
-이미 내 컴퓨터에서 Import 된 책은 Open 하기만 하면 작업이 가능합니다.
+이미 내 컴퓨터에 Clone을 통해 받아온 책은 Open 하기만 하면 작업이 가능합니다. GitBook Editor에서 \[GitBook Editor\]-\[Open...\] 메뉴를 이용해 작업할 책을 여십시오. 책이 있는 폴더를 선택하시면 됩니다.
+
+![](/assets/gitbook_open.png)
 
 하지만, **문서를 열자 마자  GitBook Editor에서 \[Book\]-\[Sync\] 메뉴를 눌러주십시오.** 지금 우리가 하는 작업은 혼자 하는 저술 활동이 아닌 공동작업이기에 Git을 이용한 분산개발에서 작업 시작 전에 Fetch, Pull을 해야 하듯이 자신의 작업을 시작하기 전에 원격저장소의 변경사항을 Sync 해 주어야 합니다. 실제로 Sync 기능을 수행하면 Git의 Pull 기능이 수행되게 됩니다.
 
 다시 한번 강조합니다. 문서를 열고나면 반드시 Sync 기능을 실행해 원격저장소의 변경사항을 받아 오십시오.
+
+책을 작업하는 화면은 일반적인 문서편집기와 유사합니다.![](/assets/open_book.png)
+
+![](/assets/open_book.png)
+
+![](/assets/open_book.png)
 
 ## 새 챕터 만들기
 

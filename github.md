@@ -31,11 +31,9 @@ GitHub에서 참여를 원하는 저장소에 가셔서 \[Issues\] 탭을 누르
    * PostgreSQL 안내서의 경우: `git clone https://github.com/PostgreSQL-Korea/pgdoc-kr.git`
    * QGIS 초급자용 교재의 경우: `git clone https://github.com/osgeo-kr/qgisdoc101.git`
 
-## GitBook Editor에서 작업할 책 열기 {#import}
 
-사용자가 GitBook Editor를 실행해 받아온 git 저장소를 Import하면 편집을 시작할 수 있습니다. GitBook Editor를 시작하는 화면에서 \[GitBook Editor\]-\[Import...\] 메뉴를 누르고 앞의 과정에서 Clone 한 저장소가 있는 폴더를 선택하시면 작업할 책이 열립니다.
 
-![](/assets/GitBookLogin.png)
 
-책을 작업하는 화면은 일반적인 문서편집기와 유사합니다.![](/assets/open_book.png)
+
+책을 작업하는 화면은 일반적인 문서편집기와 유사합니다.
 
